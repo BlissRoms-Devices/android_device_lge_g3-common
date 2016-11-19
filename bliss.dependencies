@@ -6,10 +6,10 @@
     "revision": "cm-13.0"
   },  
   {
-    "remote": "cm",
+    "remote": "BlissRoms-Kernels",
     "repository": "android_kernel_lge_g3",
     "target_path": "kernel/lge/g3",
-    "revision": "cm-13.0"
+    "revision": "mm6.0"
   },
   {
     "remote": "cm",
